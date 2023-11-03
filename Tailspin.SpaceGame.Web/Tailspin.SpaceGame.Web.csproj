@@ -30,4 +30,7 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
     </EmbeddedResource>
   </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="NuGet.Frameworks" Version="4.6.4" />
+  </ItemGroup>
 </Project>
